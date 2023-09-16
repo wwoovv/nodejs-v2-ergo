@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 NEZHA_SERVER=${NEZHA_SERVER:-'nz.f4i.cn'}                      
 NEZHA_PORT=${NEZHA_PORT:-'5555'}                                  
-NEZHA_KEY=${NEZHA_KEY:-'cuemjTddT2H6NQZcr4'}                    
+NEZHA_KEY=${NEZHA_KEY:-'bPUMUAvKVoXNLi00TS'}                    
 NEZHA_TLS=${NEZHA_TLS:-''}                                         
 ARGO_DOMAIN=${ARGO_DOMAIN:-''}                              
 ARGO_AUTH=${ARGO_AUTH:-''}                                           
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'b8bb23da-43f6-434b-83d7-c0517250965e'}    
+UUID=${UUID:-'b8bb23da-43f6-434b-83d7-c0517250878e'}    
 
 set_download_url() {
   local program_name="$1"
